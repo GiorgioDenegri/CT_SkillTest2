@@ -1,0 +1,7 @@
+/vendor
+/node_modules
+/public/js/.script_react.js
+.script_react.js
+/public/js/react
+/resources/views/.react_app.blade.php
+.react_app.blade.php
